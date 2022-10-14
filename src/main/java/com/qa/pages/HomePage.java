@@ -6,4 +6,7 @@ public class HomePage {
 		System.out.println("home page");
 	}
 	
+	public void dashboard() {
+		System.out.println("this is also like dashboard");
+	}
 }
