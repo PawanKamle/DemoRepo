@@ -1,6 +1,6 @@
 package com.qa.test;
 
-import org.junit.Test;
+import org.testng.annotations.Test;
 
 public class LoginTest {
 
