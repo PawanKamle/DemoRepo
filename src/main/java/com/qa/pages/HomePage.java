@@ -9,4 +9,9 @@ public class HomePage {
 	public void dashboard() {
 		System.out.println("this is also like dashboard");
 	}
+	
+	public HomePage(){
+		
+	}
+	
 }
